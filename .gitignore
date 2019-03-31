@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Add be user Aisuko
+
+.DS_Store
+.vscode/
